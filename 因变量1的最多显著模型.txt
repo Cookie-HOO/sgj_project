@@ -1,0 +1,681 @@
+> lm_batch(df, c(x_lm_label_cols, x_lm_num_cols), y_lm_col, threshhold = 6)
+Time difference of 11.23869 secs
+[1] "1 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg."
+Time difference of 23.16272 secs
+[1] "2 万"
+Time difference of 36.01745 secs
+[1] "3 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + kt.v"
+Time difference of 48.19712 secs
+[1] "4 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L."
+Time difference of 1.018968 mins
+[1] "5 万"
+Time difference of 1.250211 mins
+[1] "6 万"
+Time difference of 1.480154 mins
+[1] "7 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L."
+Time difference of 1.700617 mins
+[1] "8 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+Time difference of 1.910346 mins
+[1] "9 万"
+Time difference of 2.138211 mins
+[1] "10 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + 透析龄.月数. + Ca.P乘积 + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+Time difference of 2.38787 mins
+[1] "11 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+Time difference of 2.627183 mins
+[1] "12 万"
+Time difference of 2.863821 mins
+[1] "13 万"
+Time difference of 3.103509 mins
+[1] "14 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+Time difference of 3.338073 mins
+[1] "15 万"
+Time difference of 3.567217 mins
+[1] "16 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+Time difference of 3.775579 mins
+[1] "17 万"
+Time difference of 4.050723 mins
+[1] "18 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + 透析龄.月数. + Ca.P乘积 + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+Time difference of 4.309256 mins
+[1] "19 万"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+Time difference of 4.572303 mins
+[1] "20 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+Time difference of 4.822142 mins
+[1] "21 万"
+Time difference of 5.077417 mins
+[1] "22 万"
+Time difference of 5.334179 mins
+[1] "23 万"
+Time difference of 5.577525 mins
+[1] "24 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+Time difference of 5.822254 mins
+[1] "25 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+Time difference of 6.055072 mins
+[1] "26 万"
+Time difference of 6.328355 mins
+[1] "27 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 转铁饱和度. + Ca.P乘积 + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+Time difference of 6.609877 mins
+[1] "28 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+Time difference of 6.880736 mins
+[1] "29 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+Time difference of 7.148202 mins
+[1] "30 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+Time difference of 7.405421 mins
+[1] "31 万"
+Time difference of 7.680647 mins
+[1] "32 万"
+Time difference of 7.943917 mins
+[1] "33 万"
+Time difference of 8.200052 mins
+[1] "34 万"
+Time difference of 8.449433 mins
+[1] "35 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+Time difference of 8.719539 mins
+[1] "36 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+Time difference of 9.011557 mins
+[1] "37 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+Time difference of 9.296109 mins
+[1] "38 万"
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+Time difference of 9.579848 mins
+[1] "39 万"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+Time difference of 9.85171 mins
+[1] "40 万"
+Time difference of 10.1368 mins
+[1] "41 万"
+Time difference of 10.40938 mins
+[1] "42 万"
+Time difference of 10.66738 mins
+[1] "43 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+Time difference of 10.98118 mins
+[1] "44 万"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+Time difference of 11.27979 mins
+[1] "45 万"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+Time difference of 11.57534 mins
+[1] "46 万"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+Time difference of 11.86633 mins
+[1] "47 万"
+Time difference of 12.14593 mins
+[1] "48 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+Time difference of 12.4625 mins
+[1] "49 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 8
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v"
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 7
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+Time difference of 12.76703 mins
+[1] "50 万"
+Time difference of 13.07173 mins
+[1] "51 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 糖尿病 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + 二氧化碳.23.0.29.0.mmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + kt.v + ipth.14.9.56.86pg.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + 二氧化碳.23.0.29.0.mmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + UA.155.357μmol.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 降磷药物及剂量 + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + ALP.50.135U.L. + ipth.14.9.56.86pg.ml. + 铁蛋白.24.425ng.ml."
+Time difference of 13.39175 mins
+[1] "52 万"
+[1] 6
+[1] "Klotho.31.2.2000pg.ml. ~ 是否吸烟 + 性别 + 降磷药物及剂量 + UA.155.357μmol.L. + X..β2微球蛋白.1.00.3.00mg.L. + Cr.41.81μmol.L. + P.0.85.1.51mmol.L. + 年龄 + 转铁饱和度. + 透析龄.月数. + ALB.40.55g.L. + Ca.P乘积 + SBP.mmHg. + kt.v + 铁蛋白.24.425ng.ml."
